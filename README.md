@@ -1,2 +1,2 @@
 # Coral-Bleaching-and-Carbon-Levels
-Worked collaboratively on this project.
+Extract Coral Bleaching data using SQL and build visualizations
